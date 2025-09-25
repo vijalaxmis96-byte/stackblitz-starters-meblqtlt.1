@@ -1,4 +1,4 @@
-const Task = require('../models/Task')
+const Task = require('../model/task')
 
 const addTask = async (req,res)=>{
     try {
